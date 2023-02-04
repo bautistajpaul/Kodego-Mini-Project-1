@@ -3,6 +3,9 @@
     background-color: #fbeaab;
 }
 /* main */
-.rehome-banner{
-    background-color: #454544;
-}
+    /* banner */
+    .banner{
+        background-image: url(Media/banner-bg.jpg);
+        background-size: cover;
+        background-position: center;
+    }
