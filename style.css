@@ -6,8 +6,18 @@
 /* main */
 /* banner */
 .banner{
+    padding-top: 100px;
     background-image: url(Media/banner-bg.jpg);
     background-size: cover;
     background-position: center;
     overflow-x: hidden;
+}
+/* adoption content */
+.adopt-content{
+    /* background-image: url(Media/banner-background.jpg); */
+    background-color: #d0885b;
+    background-size: cover;
+    background-position: center;
+}
+.d-block{
 }
