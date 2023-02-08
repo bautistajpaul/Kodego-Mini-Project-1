@@ -2,10 +2,12 @@
 .header{
     background-color: #fbeaab;
 }
+
 /* main */
-    /* banner */
-    .banner{
-        background-image: url(Media/banner-bg.jpg);
-        background-size: cover;
-        background-position: center;
-    }
+/* banner */
+.banner{
+    background-image: url(Media/banner-bg.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow-x: hidden;
+}
