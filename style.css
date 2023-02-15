@@ -1,13 +1,72 @@
 /* header */
-.header{
-    background-color: #fbeaab;
-}
-
-/* main */
-/* banner */
-.banner{
+/* Navigation */
+#header{
+    padding-top: 20px;
     background-image: url(Media/banner-bg.jpg);
     background-size: cover;
     background-position: center;
-    overflow-x: hidden;
 }
+.navbar-logo{
+    width: auto;
+    height: 100px;
+}
+#brand-name{
+    font-family: 'Lavishly Yours', cursive;
+    font-size: 80px;
+    font-weight: bold;
+}
+.nav-link:hover{
+    color: #f5e5a8 !important;
+}
+.dropdown-item:active{
+    background-color: #f5e5a8 !important;
+    color: black !important;
+}
+
+/* Banner */
+#banner-title{
+    font-family: 'Bitter', serif;
+    font-size: 64px;
+    font-weight: bold;
+}
+/* #banner-pic{
+    width: auto;
+    height: 759px;
+} */
+#banner-info{
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold;
+}
+#slogan-btn{
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold;
+}
+#slogan-btn:hover{
+    color: #f5e5a8;
+}
+
+/* News */
+#news{
+    margin-top: 100px;
+
+}
+#news-title{
+    font-family: 'Bitter', serif;
+    font-size: 64px;
+    font-weight: bold;
+}
+#fb-text{
+    margin-bottom: 0px;
+    margin-left: 15px;
+}
+.carousel-caption{
+    background: rgba(255, 255, 255, .2);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+}
+.news-carousel-title{
+    color: black;
+}
+.news-carousel-content{
+    color: black;
+}
+/* Pets Ready for adoption */
