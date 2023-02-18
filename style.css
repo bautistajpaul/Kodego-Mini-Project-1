@@ -29,10 +29,6 @@
     font-size: 64px;
     font-weight: bold;
 }
-/* #banner-pic{
-    width: auto;
-    height: 759px;
-} */
 #banner-info{
     font-family: 'Roboto Mono', monospace;
     font-weight: bold;
@@ -69,4 +65,69 @@
 .news-carousel-content{
     color: black;
 }
-/* Pets Ready for adoption */
+.carousel-inner{
+    background-color: gray;
+}
+/* Pets for sale */
+.content-title{
+    font-family: 'Bitter', serif;
+    font-size: 64px;
+    font-weight: bold;
+}
+.moreinfo-btn:active{
+    color: #f5e5a8 !important;
+}
+/* Footer */
+.footer-container{
+    background-color: rgb(41, 39, 39);
+    padding-top: 25px;
+}
+.footer-logo{
+    height: 100px;
+    width: auto;
+}
+.footer-brand{
+    font-family: 'Lavishly Yours', cursive;
+    font-size: 75px;
+    font-weight: bold;
+}
+.footer-brand{
+    color: #f5e5a8;
+    text-decoration: none;
+}
+.sign-create{
+    color: #f5e5a8;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bolder;
+    font-size:larger
+}
+.sign-name{
+    color: #7c7c79;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold;
+}
+.footer-title{
+    color: #f5e5a8;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bolder;
+    font-size:larger
+}
+.footer-list{
+    list-style-type: none;
+    padding-left: 0px;
+}
+.footer-page-link{
+    color: #7c7c79;
+    text-decoration: none;
+}
+.footer-page-link:link{
+    color: #7c7c79;
+}
+.footer-page-link:hover{
+    color: #857c5c;
+}
+/* Grooming */
+.grooming-price-title{
+    font-family: 'Bitter', serif;
+    font-weight: bold;
+}
