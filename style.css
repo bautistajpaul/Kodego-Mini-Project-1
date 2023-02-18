@@ -65,6 +65,9 @@
 .news-carousel-content{
     color: black;
 }
+.carousel-inner{
+    background-color: gray;
+}
 /* Pets for sale */
 .content-title{
     font-family: 'Bitter', serif;
@@ -122,4 +125,9 @@
 }
 .footer-page-link:hover{
     color: #857c5c;
+}
+/* Grooming */
+.grooming-price-title{
+    font-family: 'Bitter', serif;
+    font-weight: bold;
 }
